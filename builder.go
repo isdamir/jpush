@@ -76,16 +76,15 @@ func (this *NoticeBuilder) SetNotice(o interface{}) {
 		this.Notification = make(map[string]interface{})
 	}
 	switch o.(type) {
-	case NoticeAndroid:
+	case *NoticeAndroid:
 		this.Notification[string(ANDROID)] = o
-	case NoticeWinphone:
+	case *NoticeWinphone:
 		this.Notification[string(WINPHONE)] = o
-	case NoticeIos:
+	case *NoticeIos:
 		this.Notification[string(IOS)] = o
-	case NoticeSimple:
-		this.Notification["alert"] = o.(NoticeSimple).Alert
+	case *NoticeSimple:
+		this.Notification["alert"] = o.(*NoticeSimple).Alert
 	}
-
 }
 
 //------------------MessageAndNoticeBuilder------------------

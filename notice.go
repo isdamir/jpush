@@ -11,7 +11,7 @@ type Notice struct {
 	/*
 		这里自定义 JSON 格式的 Key/Value 信息，以供业务使用
 	*/
-	Extras map[string]interface{} `json:"extras"`
+	Extras map[string]interface{} `json:"extras,omitempty"`
 }
 
 type NoticeAndroid struct {
@@ -23,7 +23,7 @@ type NoticeAndroid struct {
 	/*
 		Android SDK 可设置通知栏样式，这里根据样式 ID 来指定该使用哪套样式。
 	*/
-	BuilderId int `json:"builder_id"`
+	BuilderId int `json:"builder_id,omitempty"`
 }
 type NoticeIos struct {
 	Notice

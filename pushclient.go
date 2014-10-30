@@ -3,7 +3,7 @@ package jpush
 import (
 	"encoding/base64"
 	"encoding/json"
-	"fmt"
+	//"fmt"
 	"github.com/isdamir/jpush/common"
 )
 
@@ -30,7 +30,9 @@ func NewPushClient(secret, appKey string) *PushClient {
 }
 
 func (this *PushClient) Send(builder interface{}) (*common.RetData, error) {
+
 	content, err := json.Marshal(builder)
+	//fmt.Println(string(content))
 	if err != nil {
 		return nil, err
 	}

@@ -4,7 +4,7 @@ type Message struct {
 	Content     string                 `json:"msg_content"`
 	Title       string                 `json:"title"`
 	ContentType string                 `json:"content_type"`
-	Extras      map[string]interface{} `json:"extras"`
+	Extras      map[string]interface{} `json:"extras,omitempty"`
 }
 
 func (this *Message) SetContent(c string) {

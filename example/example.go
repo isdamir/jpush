@@ -6,8 +6,8 @@ import (
 )
 
 const (
-	appKey = "fc4e7512bfd31c3dba9bad3e"
-	secret = "570d3442dc88d1382fe93b89"
+	appKey = "修改为您自己的"
+	secret = "修改为您自己的"
 )
 
 const jsons = `{
@@ -32,14 +32,42 @@ func main() {
 
 	//Notice
 	notice := jpush.NewNoticeSimple()
-	notice.Alert = "alert_test"
+	notice.Alert = "测试"
 
 	//NoticeBuilder
 	nb := jpush.NewNoticeBuilder()
 	nb.SetPlatform(jpush.AllPlatform())
 	nb.SetAudience(jpush.AllAudience())
 	nb.SetNotice(notice)
-
+	//push
+	ret, err := c.Send(nb)
+	if err != nil {
+		fmt.Println("err:", err.Error())
+	} else {
+		if ret.Error.Code == 0 {
+			fmt.Println("ok:", ret.Sendno)
+		} else {
+			fmt.Println("err:", ret.Error.Message)
+		}
+	}
+	noticeAndroid := jpush.NewNoticeAndroid()
+	noticeAndroid.Alert = "测试android"
+	noticeAndroid.Title = "标题"
+	nb = jpush.NewNoticeBuilder()
+	nb.SetPlatform(jpush.AllPlatform())
+	nb.SetAudience(jpush.AllAudience())
+	nb.SetNotice(noticeAndroid)
+	//push
+	ret, err = c.Send(nb)
+	if err != nil {
+		fmt.Println("err:", err.Error())
+	} else {
+		if ret.Error.Code == 0 {
+			fmt.Println("ok:", ret.Sendno)
+		} else {
+			fmt.Println("err:", ret.Error.Message)
+		}
+	}
 	var msg jpush.Message
 	msg.Title = "Hello"
 	msg.Content = "祝大家工作顺利"
@@ -50,7 +78,7 @@ func main() {
 	mb.SetMessage(&msg)
 
 	//push
-	ret, err := c.Send(mb)
+	ret, err = c.Send(mb)
 	if err != nil {
 		fmt.Println("err:", err.Error())
 	} else {
