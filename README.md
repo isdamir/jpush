@@ -12,6 +12,6 @@ jpush api for golang
 使用  
 ----------------------------------- 
    
-   go get https://github.com/isdamir/jpush
+   `go get https://github.com/isdamir/jpush`
    
    然后请参照example/example.go使用
