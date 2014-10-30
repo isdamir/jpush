@@ -1,0 +1,1459 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ev",
+				"EventWeight	 Ɩ"
+			],
+			[
+				"eve",
+				"event	Event ν"
+			],
+			[
+				"Eve",
+				"EventPower	 Ɩ"
+			],
+			[
+				"we",
+				"weight	 package ρ"
+			],
+			[
+				"time",
+				"times	[]byte ν"
+			],
+			[
+				"mon",
+				"Month	int ʈ"
+			],
+			[
+				"up",
+				"UpdateId	error ƒ"
+			],
+			[
+				"A",
+				"AlertTimeSt	struct ʈ"
+			],
+			[
+				"po",
+				"pow	*power.PowerSt ν"
+			],
+			[
+				"user",
+				"userId	bson.ObjectId ν"
+			],
+			[
+				"s",
+				"Sub	time.Duration ƒ"
+			],
+			[
+				"userg",
+				"UsersGetByName	u *users.UsersSt, err error ƒ"
+			],
+			[
+				"int",
+				"Int32ToBytes	[]byte ƒ"
+			],
+			[
+				"fa",
+				"FailNow	 ƒ"
+			],
+			[
+				"In",
+				"BytesToInt64	int64 ƒ"
+			],
+			[
+				"Mon",
+				"Month	int ʈ"
+			],
+			[
+				"pu",
+				"PutUint32	 ƒ"
+			],
+			[
+				"e",
+				"Error	 ƒ"
+			],
+			[
+				"f",
+				"FailNow	 ƒ"
+			],
+			[
+				"da",
+				"Date	year int, month time.Month, day int ƒ"
+			],
+			[
+				"Ti",
+				"Time	struct ʈ"
+			],
+			[
+				"ti",
+				"Time	struct ʈ"
+			],
+			[
+				"a",
+				"AppConfig	*web.AppConfigData ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"re",
+				"Request	*http.Request ν"
+			],
+			[
+				"pa",
+				"ParamString	string ƒ"
+			],
+			[
+				"p",
+				"Params	*url.Values ƒ"
+			],
+			[
+				"se",
+				"ServeJson	 ƒ"
+			],
+			[
+				"Cont",
+				"Controller	struct ʈ"
+			],
+			[
+				"User",
+				"UsersSt	struct ʈ"
+			],
+			[
+				"c",
+				"Ctx	*web.Context ν"
+			],
+			[
+				"con",
+				"Controller	struct ʈ"
+			],
+			[
+				"Ser",
+				"ServeJson"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Pr",
+				"println"
+			],
+			[
+				"ser",
+				"Serial"
+			],
+			[
+				"num",
+				"numNow"
+			],
+			[
+				"wa",
+				"waitCounter"
+			],
+			[
+				"is",
+				"isRun"
+			],
+			[
+				"isin",
+				"isInRunTime"
+			],
+			[
+				"coun",
+				"waitCounter"
+			],
+			[
+				"Len",
+				"LegendInfo"
+			],
+			[
+				"Le",
+				"LegendInfo"
+			],
+			[
+				"Co",
+				"Con"
+			],
+			[
+				"SAFE",
+				"SAFE_DEL"
+			],
+			[
+				"newbi",
+				"NewBitmapFromFile	*walk.Bitmap, error ƒ"
+			],
+			[
+				"newbitm",
+				"NewBitmapFromResource	ic *walk.Bitmap, err error ƒ"
+			],
+			[
+				"newbitmap",
+				"NewBitmapFromImage	*walk.Bitmap, error ƒ"
+			],
+			[
+				"new",
+				"NewNetTool	*nettool.NetTool ƒ"
+			],
+			[
+				"st",
+				"str	string ν"
+			],
+			[
+				"Hea",
+				"Header	map[string][]string ʈ"
+			],
+			[
+				"err",
+				"errors	 package ρ"
+			],
+			[
+				"fins",
+				"FindStringSubmatch	[]string ƒ"
+			],
+			[
+				"sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"func",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"blu",
+				"blueJwxl	 package ρ"
+			],
+			[
+				"lo",
+				"Log	err error ƒ"
+			],
+			[
+				"str",
+				"strings	 package ρ"
+			],
+			[
+				"Ac",
+				"ActTaskServer	bool ƒ"
+			],
+			[
+				"ses",
+				"SessionGet	interface{} ƒ"
+			],
+			[
+				"ob",
+				"ObjectId	string ʈ"
+			],
+			[
+				"l",
+				"list	map[int]string ν"
+			],
+			[
+				"N",
+				"NetTool	struct ʈ"
+			],
+			[
+				"n",
+				"NetTool	struct ʈ"
+			],
+			[
+				"r",
+				"ReadBytes	line []byte, err error ƒ"
+			],
+			[
+				"w",
+				"WriteTo	n int64, err error ƒ"
+			],
+			[
+				"use",
+				"userId	int ν"
+			],
+			[
+				"rem",
+				"RemoveAll	info *mgo.ChangeInfo, err error ƒ"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"upda",
+				"updateAddr"
+			],
+			[
+				"sta",
+				"StartUser	 ƒ"
+			],
+			[
+				"us",
+				"UserId	bson.ObjectId ν"
+			],
+			[
+				"jwac",
+				"JwxlAcLog	 ƒ"
+			],
+			[
+				"m",
+				"mahonia	 package ρ"
+			],
+			[
+				"g",
+				"Get	ls []LogSt, err error ƒ"
+			],
+			[
+				"su",
+				"LogSuc	 Ɩ"
+			],
+			[
+				"useg",
+				"UsersGetById	ls *models.UsersSt, err error ƒ"
+			],
+			[
+				"d",
+				"DiscuzHandler	 ƒ"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"tim",
+				"time	 package ρ"
+			],
+			[
+				"mi",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"to",
+				"StructToSmallMap	utils.Map ƒ"
+			],
+			[
+				"usea",
+				"UserSumAdd	err error ƒ"
+			],
+			[
+				"mo",
+				"ModuleUseCheck	b bool ƒ"
+			],
+			[
+				"usg",
+				"UsersGetById	ls *models.UsersSt, err error ƒ"
+			],
+			[
+				"ac",
+				"ActivityByModule	ac *models.ActivitySt, err error ƒ"
+			],
+			[
+				"tasu",
+				"TaskUpdateT	err error ƒ"
+			],
+			[
+				"taa",
+				"TaskAddT	id bson.ObjectId, err error ƒ"
+			],
+			[
+				"taska",
+				"TaskAddT	id bson.ObjectId, err error ƒ"
+			],
+			[
+				"tss",
+				"TaskSt	struct ʈ"
+			],
+			[
+				"tasg",
+				"TaskGetById	l *autorefresh.TaskSt, err error ƒ"
+			],
+			[
+				"tasc",
+				"TaskCheckIsYou	bool ƒ"
+			],
+			[
+				"usc",
+				"UserActivation	bool ƒ"
+			],
+			[
+				"tac",
+				"TaskCheckIsYou	bool ƒ"
+			],
+			[
+				"taskg",
+				"TaskGetById	l *autorefresh.TaskSt, err error ƒ"
+			],
+			[
+				"tast",
+				"TaskSt	struct ʈ"
+			],
+			[
+				"usu",
+				"UserSumUpdate	err error ƒ"
+			],
+			[
+				"taskc",
+				"TaskGetByTaskCmd	m *autorefresh.TaskStCmd, err error ƒ"
+			],
+			[
+				"uss",
+				"UserSt	struct ʈ"
+			],
+			[
+				"usesu",
+				"UserSumUpdate	err error ƒ"
+			],
+			[
+				"o",
+				"ObjectId	string ʈ"
+			],
+			[
+				"cmd",
+				"TaskStCmd	struct ʈ"
+			],
+			[
+				"taskge",
+				"TaskGetById	l *TaskSt, err error ƒ"
+			],
+			[
+				"Tasks",
+				"TaskState	int ʈ"
+			],
+			[
+				"Upd",
+				"UpdateId	error ƒ"
+			],
+			[
+				"Tas",
+				"TaskSt	struct ʈ"
+			],
+			[
+				"usec",
+				"UserCreate	err error ƒ"
+			],
+			[
+				"Use",
+				"UserSt	struct ʈ"
+			],
+			[
+				"mod",
+				"ModuleUseCheck	b bool ƒ"
+			],
+			[
+				"u",
+				"UpdateAll	info *mgo.ChangeInfo, err error ƒ"
+			],
+			[
+				"fi",
+				"Find	*mgo.Query ƒ"
+			],
+			[
+				"Find",
+				"FindId	*mgo.Query ƒ"
+			],
+			[
+				"obe",
+				"NewObjectId	bson.ObjectId ƒ"
+			],
+			[
+				"jw",
+				"JwxlSt	struct ʈ"
+			],
+			[
+				"jwxls",
+				"JwxlSt	struct ʈ"
+			],
+			[
+				"logs",
+				"LogSt	struct ʈ"
+			],
+			[
+				"Acti",
+				"ActivitySt	struct ʈ"
+			],
+			[
+				"Mo",
+				"ModuleSt	struct ʈ"
+			],
+			[
+				"in",
+				"Insert	error ƒ"
+			],
+			[
+				"db",
+				"db	mdb"
+			],
+			[
+				"get",
+				"GetByTaskId	err error ƒ"
+			],
+			[
+				"co",
+				"Controller	struct ʈ"
+			],
+			[
+				"serv",
+				"ServeTpl	 ƒ"
+			],
+			[
+				"log",
+				"logic	 package ρ"
+			],
+			[
+				"runsid",
+				"RunSidZs	i, tm int, err error ƒ"
+			],
+			[
+				"app",
+				"AppConfig	*web.AppConfigData ν"
+			],
+			[
+				"gl",
+				"GlobalSessions	*session.Manager ν"
+			],
+			[
+				"ma",
+				"func main	func main {...} ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "option.go",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint Inline/JSHint-Inline.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reb",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"rebu",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set go",
+				"Set Syntax: Go"
+			],
+			[
+				"res",
+				"RESTer: HTTP Request"
+			],
+			[
+				"ison",
+				"Indent JSON"
+			],
+			[
+				"go",
+				"GoSublime: New Go File"
+			],
+			[
+				"sql",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				":ins",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"set syntx:go",
+				"Set Syntax: Go"
+			],
+			[
+				"XML",
+				"Indent XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"marke",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"ma",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inser",
+				"InsertNums"
+			],
+			[
+				"inse",
+				"InsertNums"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"set g",
+				"Set Syntax: Go"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push T",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"a>",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"fotm",
+				"File: Copy Path From Project"
+			],
+			[
+				"aut",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"Snippet: ",
+				"Snippet: go.db.more"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git co	",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Open Error Log"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/app/score.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/power/power.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/users/users.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/box/boxservice.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/log.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/app.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/app/power.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/alertTime/alertTime.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/weight/weight.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/WeiZhiServer",
+		"/Users/damir/Code/go/src/WeiZhiServer/main.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/utils/macid.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/alertTime.go",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/serviceapp.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/power.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/box/event.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/hex/hexutil.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/hex/hexutil_test.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/controllers/users/users.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/utils.go",
+		"/Users/damir/Code/go/src/test/test.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/config/config_test.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/hex/hexutil.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/web.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/conf/app.json",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/servicebox.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/logic/handler.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/logic/pushMessage.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/logic/stateMachine.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/servicebox",
+		"/Users/damir/Code/go/src/aiwannet/controllers/index/login.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/context.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/config/config.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/controller.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/router.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/model.go",
+		"/Users/damir/Code/go/src/WeiZhiServer/models/users.go",
+		"/Users/damir/Code/go/src/github.com/iyf/gospeed/web/session/session.go",
+		"/Users/damir/Code/go/src/aiwannet/controllers/index/logindo.go",
+		"/Users/damir/Code/go/src/aiwannet/controllers/index/loginout.go",
+		"/Users/damir/Code/go/src/aiwannet/main.go",
+		"/Users/damir/Code/go/src/aiwannet/controllers/index/index.go",
+		"/Users/damir/Code/go/src/aiwannet/controllers/app.go",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/damir/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/E/Cygwin/home/Damir/gitStatics.sh",
+		"/E/Cygwin/home/Damir/.zshrc",
+		"/E/blue/SublimeText3/Data/Packages/User/GoSublime.sublime-settings",
+		"/E/blue/SublimeText3/Data/Packages/GoSublime/USAGE.md",
+		"/F/Work/ProntoDoc/GitSource/autoupdate.sh",
+		"/F/Work/ProntoDoc/GitSource/autobuild.sh",
+		"/F/Work/ProntoDoc/GitSource/ProntoDoc.Configure/ProntoDoc.Configurer.SharedComponent/ProntoDoc.Configurer.SharedComponent.csproj",
+		"/E/Cygwin/home/Damir/.gitignore",
+		"/E/blue/SublimeText3/Data/Packages/GoSublime/GoSublime.sublime-settings",
+		"/F/Work/ProntoDoc/GitSource/autobuild.bat",
+		"/D/desktop/我当道士那些年.txt",
+		"/E/Cygwin/home/Damir/.gitconfig",
+		"/E/code/c#/Kinect/QiyuNew/Qiyu.csproj.user",
+		"/F/Cygwin/.zshrc",
+		"/E/code/c#/Kinect/QiyuNew/Qiyu.csproj",
+		"/E/code/c#/Kinect/QiyuNew/Qiyu.sln",
+		"/E/Cygwin/home/Damir/.vimrc",
+		"/E/Cygwin/home/Damir/git/README",
+		"/D/desktop/少女之心.txt",
+		"/D/desktop/阿里布达年代祭.txt",
+		"/D/desktop/少女之心（曼娜回忆录）.txt",
+		"/D/desktop/《阿里布达年代祭》（实体封面第2部全）作者：罗森.txt",
+		"/D/desktop/《阿里布达年代记》（第1部1-10卷）作者：罗森.txt",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.SharedComponent/Entities/ViewModel/PluginNameData.cs",
+		"/C/PDMA.Package.Compiler.cmd",
+		"/D/Cocos2dData/CocoStudio/Source/3.0/cocos2d-x/setup.py",
+		"/E/Dropbox/wiz/login.go",
+		"/E/Dropbox/wiz/main.go",
+		"/F/Work/Qiyu/Qiyu_20140409--2/Microsoft.Kinect.Toolkit.Controls/Microsoft.Kinect.Toolkit.Controls.csproj",
+		"/F/Work/Qiyu/Qiyu/Microsoft.Kinect.Toolkit.Controls/Microsoft.Kinect.Toolkit.Controls.csproj",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.Container.GenerateDomain/PluginNameAndEmail.xaml.cs",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.Container.GenerateDomain/GenerateDomainCtrl.xaml",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.Container.GenerateDomain/PluginNameAndEmail.xaml",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.Main/ProntoDoc.Configurer.Main.csproj",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure.Branch/ProntoDoc.Configurer.Controller/ProntoDoc.Configurer.Controller.csproj",
+		"/D/desktop/2.txt",
+		"/D/PDMA.Package.Compiler.cmd",
+		"/C/Users/Damir/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/O3YDIPMP/index[1].html",
+		"/F/Virtual Machines/Mac OS X 10.8/Mac OS X 10.8.vmx",
+		"/D/desktop/Microsoft.VisualStudio.Tools.Office.targets",
+		"/D/desktop/1",
+		"/D/desktop/新建文本文档.txt",
+		"/D/常用3000.txt",
+		"/D/常用2000.txt",
+		"/D/desktop/音标.txt",
+		"/D/迅雷下载/StudySoft/最常用2000英语单词.txt",
+		"/D/迅雷下载/StudySoft/常用2000英语单词.txt",
+		"/D/desktop/tt.txt",
+		"/D/Data/文档/My Courses/Source/朗文常用词3000.txt",
+		"/D/迅雷下载/StudySoft/朗文常用词3000.txt",
+		"/D/Data/文档/My Courses/朗文常用词3000/override/item00001.xml",
+		"/E/blue/SuperMemo15/Source/朗文常用词3000.txt",
+		"/D/desktop/qlx完整解决方案",
+		"/D/Data/文档/My Courses/大众英语/大众英语上/override/course.xml",
+		"/D/Data/文档/My Courses/大众英语/大众英语上/override/item00001.xml",
+		"/E/blue/SuperMemo15/Source/f6-101导入.txt",
+		"/E/blue/SuperMemo15/Source/F6-102导入.txt",
+		"/E/blue/SublimeText3/Data/Packages/GoSublime/CHANGELOG.md",
+		"/E/code/hardware/温度传感器/LCDC/LCDRun/LCDRun.pde",
+		"/E/code/hardware/温度传感器/LCDC/LCDRun/Vaginal",
+		"/F/Work/ProntoDoc/Source/ProntoDoc.Configure/ProntoDoc.Configurer.SharedComponent/Moudle/RibbonMenu.xaml",
+		"/E/devTool/arduino-1.0.5/libraries/AccelStepper/AccelStepper.h",
+		"/E/code/Arduino/RobotHand/RobotHand.ino",
+		"/E/Cygwin/home/Damir/.ssh/id_rsa.pub",
+		"/E/devTool/arduino-1.0.5/libraries/AccelStepper/AccelStepper.cpp",
+		"/D/desktop/RobotHand14_3_1_ino/RobotHand14_3_1_ino.ino",
+		"/E/Cygwin/home/Damir/.ssh/config",
+		"/D/迅雷下载/我当道士那些年.txt",
+		"/D/desktop/RobotHand_moni_ino.ino",
+		"/E/Cygwin/Cygwin.bat",
+		"/D/desktop/RobotHandStepper_gai14_3_2.ino",
+		"/D/desktop/《盗墓笔记壹：七星鲁王宫》.txt",
+		"/E/blue/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Elcomsoft Password Recovery/Elcomsoft Wireless Security Auditor/english.dic",
+		"/E/DataBase/Oracle/Damir/product/11.2.0/dbhome_1/NETWORK/ADMIN/tnsnames.ora",
+		"/E/code/Arduino/RobotHandSerialEvent/RobotHand.ino",
+		"/D/desktop/sqldeveloper.conf",
+		"/D/desktop/listener.ora"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/Users/damir/Code/go/src/WeiZhiServer",
+			"/Users/damir/Code/go/src/github.com/iyf/gospeed/web,/Users/damir/Code/go/src/WeiZhiServer",
+			"/Users/damir/Code/go/src/github.com/iyf/gospeed/web",
+			"E:\\code\\c\\WallE",
+			"E:\\OpenCV\\build\\include\\opencv2",
+			"E:\\code\\go\\src\\github.com\\lxn\\",
+			"E:\\code\\go\\src\\github.com\\lxn\\walk",
+			"E:\\code\\go\\src\\github\\lxn\\walk",
+			"E:\\code\\go\\src\\nettool\\Browser",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\callking",
+			"E:\\Cygwin",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\callking",
+			"E:\\code\\go\\src\\aiwannet\\controllers",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\callking",
+			"E:\\code\\go\\src\\aiwannet\\views\\callking",
+			"E:\\code\\go\\src\\aiwannet\\models\\callking",
+			"E:\\code\\go\\src\\aiwannet\\logic\\callking",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\callking",
+			"E:\\code\\go\\src\\aiwannet\\views\\callking",
+			"E:\\code\\go\\src\\aiwannet",
+			"E:\\code\\go\\src\\aiwannet\\views\\bluejwxl",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\blueJwxl",
+			"E:\\code\\go\\src\\aiwannet\\logic\\blueJwxl",
+			"E:\\code\\go\\src\\aiwannet\\models\\blueJwxl",
+			"E:\\code\\go\\src\\aiwannet\\controllers\\blueJwxl",
+			"/home/yufeng/code/go/src/aiwannet",
+			"/home/yufeng/code/go/src/aiwannet/logic",
+			"/home/yufeng/code/go/src/aiwannet",
+			"/home/yufeng/code/go/src/aiwannet/controllers",
+			"/home/yufeng/code/go/src/aiwannet/models",
+			"/home/yufeng/code/go/src/aiwannet",
+			"/home/yufeng/code/go/src/aiwannet/views",
+			"/home/yufeng/code/go/src/aiwannet/models",
+			"/home/yufeng/code/go/src/aiwannet/controllers",
+			"/home/yufeng/code/go/src/aiwannet/views/autorefresh",
+			"/home/yufeng/code/go/src/aiwannet/views/jwxl",
+			"/home/yufeng/code/go/src/aiwannet/views/autorefresh",
+			"/home/yufeng/code/go/src/aiwannet/controllers",
+			"/home/yufeng/code/go/src/aiwannet/views",
+			"/home/yufeng/code/go/src/aiwannet/views/_global",
+			"/home/yufeng/code/go/src/aiwannet/views",
+			"/home/yufeng/code/go/src/aiwannet",
+			"/home/yufeng/code/go/gospeed/web",
+			"/home/yufeng/code/go/FuZhuNet/src",
+			"/home/yufeng/downloads/UCenter_1.6.0_SC_UTF8/advanced/uc_client",
+			"/home/yufeng/code/go/FuZhuNet/src",
+			"/home/yufeng/devBase/go/src/pkg/net/http/",
+			"/home/yufeng/code/go/FuZhuNet/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"github.com/iyf/",
+			"iyf/",
+			"u",
+			"SessionStart",
+			"NewControllerRegistor",
+			"\"/cygdrive/C/Program Files/Microsoft Visual Studio 10.0/Common7/IDE/devenv.exe\"",
+			"犬灵",
+			"=.+",
+			"\"([a-z])",
+			"\"([a-z].)",
+			"stat",
+			" = stat;",
+			"PDWEnable",
+			"_pdwlEnable",
+			"10.0.0.0",
+			"<br\\>",
+			":(\\w+)*.+?(过去分词:)",
+			"(\\w+)*.+?(过去分词:)",
+			"过去式:",
+			"(\\w+)*.+?(过去式:)",
+			"    ",
+			"(^\\w+)    ",
+			"(\\w+?\\.)",
+			"(^\\w+?)(\\s+?)(\\[)",
+			"^\\d+ +",
+			"out",
+			"^\\w+?[^@]$",
+			"^*.+?]",
+			"(\\w+?\\.)",
+			"(^\\w+?)(\\s+?)(\\[)",
+			"(^\\w+?)(\\s.+?)\\[",
+			"(^\\w+?)(\\s+?)",
+			"^\\w+?(\\s+?)",
+			"@",
+			";",
+			"^\\d",
+			"^\\d+?\\s",
+			"Tohoma\";",
+			"face=\"Tohoma\";",
+			"<bgsound src=\"file:///d:/media/(.+?\\\") LOOP=TRUE>",
+			"d:/media/",
+			"<bgsound (src=.+?\\\") LOOP=TRUE>",
+			"d:/speech",
+			" LOOP=TRUE>",
+			"<bgsound src=\"../../speech/",
+			"^Q: ([a-z])(.*?$)",
+			"^Q: (bgsound)",
+			"^Q: ([a-z])(.*?$)",
+			"file:///d:/",
+			"https://www.youtube.com/watch?v=sQSbWQ7AN0E",
+			",",
+			"UpdateButtonLabel",
+			"break;",
+			"case.+?:",
+			",.+?\\)",
+			", isEnable, content, isVisible: isVisible)",
+			",.+?\\)",
+			"(?<=UpdateButton(.+?,).+?(?=);)",
+			"break;",
+			"case.+?:",
+			",",
+			"2",
+			"4",
+			"as",
+			"ucDefineCtrl.",
+			"ucDefineCtrl",
+			"-MD",
+			"listView",
+			"Data2",
+			"PART_NewTabItem",
+			"2C 02",
+			"[英语语法手册]",
+			"objCommon",
+			"M",
+			"m",
+			"2222",
+			"getJobFlags",
+			"getUpdateDocumentFlags",
+			"{0}",
+			"mynupic",
+			"Control->",
+			"WSeter.",
+			"(?<>)自定义(?=\\d+)",
+			"    ",
+			"          ",
+			"(?<>)自定义\\d+(?=<)",
+			"(?<>)自定义\\d(?=<)",
+			"><",
+			"(?<=>)Custom(?=\\d+?)",
+			"Cust",
+			"delete",
+			"WSeter",
+			"1",
+			"-",
+			"Widget",
+			"cvCvtColor",
+			"cvCreateCameraCapture",
+			"RenderArgumentY",
+			"..\\\\..\\\\Repository\\\\PDG.Setup\\\\",
+			"Y:\\\\Package\\\\f1892747f8524ac894342ff97e4a1582\\\\",
+			"}",
+			"{",
+			"..\\\\..\\\\Repository\\\\PDG.Setup\\\\",
+			"Y:\\\\Package\\\\f1892747f8524ac894342ff97e4a1582\\\\",
+			"{",
+			"}",
+			"{",
+			"}",
+			"{",
+			"Y:\\\\Package\\\\f1892747f8524ac894342ff97e4a1582\\\\",
+			"}",
+			"{",
+			"Y:\\\\Package\\\\f1892747f8524ac894342ff97e4a1582\\\\",
+			"0143F9BA6B50CC7293FA014A567486D9",
+			"MYTEST",
+			"PRONTODOC2.",
+			"\">\n",
+			"D:\\work\\PDG\\Repository\\PDG.Pde.Plugin\\",
+			"[[",
+			"]]]",
+			"Email",
+			"3cd9fee6-96a0-4eff-af4a-22161c3d1888",
+			"i",
+			"OutputFilename",
+			"iyf",
+			"lxn",
+			"iyf",
+			"LoadImage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"github.com/isdamir/",
+			"isdamir/",
+			"devenv.exe",
+			"",
+			"\"\\1\",",
+			"\"\\0\",",
+			"11.0.0.0",
+			"<br />",
+			":\\1<br\\\\>\\2",
+			":\\1<br\\>\\2",
+			"\\1<br\\>\\2",
+			"@过去式:",
+			"\\1\\2",
+			"\\t",
+			"\\1@",
+			"<br/>\\1",
+			"\\1@\\3",
+			"",
+			"<br/>\\1",
+			"\\1@\\3",
+			"\\1@",
+			"\\1\\t",
+			"",
+			"face=\"Tohoma\"",
+			"<embed src=\"file:///D:/StudyMedia/media/\\1 width=\"170\" height=\"30\" autostart=\"True\" loop=\"False\"></embed>",
+			"D:/StudyMedia/media/",
+			"D:/StudyMedia/media",
+			"<embed \\1 width=\"170\" height=\"30\" autostart=\"True\" loop=\"False\"></embed>",
+			"D:/StudyMedia/speech",
+			" width=\"170\" height=\"30\" autostart=\"True\" loop=\"False\"></embed>",
+			"<embed src=\"file:///d:/speech/",
+			"Q: \\1\\2 <embed src=\"file:///d:/speech/\\1/\\1\\2.mp3\" width=\"170\" height=\"30\" autostart=\"True\" loop=\"False\"></embed>",
+			"",
+			"../../",
+			" +=",
+			"UpdateButton",
+			"",
+			", null, null, true)",
+			"null, null, true)",
+			"",
+			":",
+			"-MT",
+			"",
+			"ControlEngine::Instance()->",
+			"WallSeter::Instance()->",
+			"Custom",
+			"",
+			"Custom",
+			"自定义",
+			"Camera",
+			"",
+			"}}",
+			"{{",
+			"",
+			"{{",
+			"}}",
+			"{{",
+			"}}",
+			"{{",
+			"",
+			"}}",
+			"{{",
+			"",
+			"users",
+			"",
+			"{0}",
+			"[",
+			"]",
+			"234a2914-e0cb-40e6-ac92-e8d63de859b8",
+			"browser",
+			"dword:0000000a",
+			"HKEY_CURRENT_USER\\Software\\Cygnus Solutions",
+			".CallKingStHKEY_CURRENT_USER\\Software\\Cygnus Solutions",
+			".CallKingSt",
+			"CallKingSetSt",
+			"CallKingSt",
+			"CallKing",
+			"callking",
+			"",
+			"callking",
+			"callking.",
+			"callking",
+			"",
+			"callking",
+			"ChState",
+			"callking",
+			"callking_header",
+			"bluejwxl",
+			".Jwxl",
+			".jwxl",
+			"blueJwxl.",
+			"package blueJwxl",
+			"bluejwxl",
+			"nil",
+			"",
+			".TaskId.Hex",
+			"bson.ObjectIdHex(",
+			".ID.Hex}}",
+			"this.Ctx.SessionGet(\"UserID\").(bson.ObjectId)",
+			"autorefresh.TaskSt",
+			"TaskSetState",
+			"TaskSt",
+			"\"_id\"",
+			"log.Debug",
+			".Data",
+			"footer",
+			"jwxl",
+			"autorefrsh",
+			"ServeTpl(",
+			"this.Ctx.UrlParams[\"",
+			"",
+			"UserID",
+			"/static/web/img",
+			"",
+			",'click',",
+			"live('click',",
+			"SessionSet",
+			"SessionGet",
+			"moudle_footer",
+			"moudle_header",
+			"dateformat",
+			"",
+			"this.Data",
+			"UserId",
+			"http://marco.iyf.cc/static/%E6%81%8B%E6%88%98%E4%BC%A0%E5%A5%87.zip",
+			"http://www5.pk7899.com/?gmid=1222",
+			"http://www5.pk7899.com/?gmid=1222 ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "option.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/yufeng/.config/sublime-text-2/Packages":
+	{
+		"height": 94.0
+	},
+	"output.9o:///home/yufeng/code/go/FuZhuNet/src":
+	{
+		"height": 100.0
+	},
+	"output.9o:///home/yufeng/code/go/FuZhuNet/src/logic":
+	{
+		"height": 262.0
+	},
+	"output.9o:///home/yufeng/code/go/FuZhuNet/src/logic/autorefresh":
+	{
+		"height": 196.0
+	},
+	"output.9o:///home/yufeng/code/go/FuZhuNet/src/models":
+	{
+		"height": 100.0
+	},
+	"output.9o:///home/yufeng/code/go/FuZhuNet/src/models/log":
+	{
+		"height": 100.0
+	},
+	"output.9o://E:\\code\\go\\src\\aiwannet":
+	{
+		"height": 204.0
+	},
+	"output.9o://E:\\code\\go\\src\\aiwannet\\controllers\\blueJwxl":
+	{
+		"height": 100.0
+	},
+	"output.9o://E:\\code\\go\\src\\aiwannet\\logic\\blueJwxl":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 114.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 120.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 100.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "jpush.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"src/models/autorefresh/task.go"
+			],
+			[
+				"go",
+				"/home/yufeng/note/tool/sublime/gosublime.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/yufeng/code/go/FuZhuNet/FuZhuNet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,8 @@
+{    "folders":
+    [
+        {
+            "path": "../jpush",
+            "file_exclude_patterns": ["win*","*.sublime*"]
+        }
+    ]
+}
