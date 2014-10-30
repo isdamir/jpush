@@ -35,8 +35,7 @@ func (this *Audience) SetAlias(Object []string) {
 
 func (this *Audience) set(key string, Object []string) {
 	if this.Object == nil {
-		s := map[string][]string{key: Object}
-		this.Object = s
+		this.Object = map[string][]string{key: Object}
 	} else {
 		switch this.Object.(type) {
 		case map[string][]string:

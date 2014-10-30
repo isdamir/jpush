@@ -67,6 +67,9 @@ func (this *NoticeBuilder) SetAudience(ad *Audience) {
 func (this *NoticeBuilder) SetOptions(o *Options) {
 	this.Options = o
 }
+func (this *NoticeBuilder) ClearNotice() {
+	this.Notification = nil
+}
 
 /*
 可以为每类Notice设置一个
@@ -108,6 +111,9 @@ func (this *MessageAndNoticeBuilder) SetOptions(o *Options) {
 
 func (this *MessageAndNoticeBuilder) SetMessage(m *Message) {
 	this.Message = m
+}
+func (this *MessageAndNoticeBuilder) ClearNotice() {
+	this.Notification = nil
 }
 
 /*
